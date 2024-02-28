@@ -1,5 +1,5 @@
 Description:
-This repository houses the codebase for an Online Equipment Rental System, a comprehensive web application developed to streamline the process of equipment rentals for businesses. The system is designed to facilitate efficient tracking of equipment rentals, enable the management of pricing structures, and organize customer information seamlessly.
+This repository houses the codebase for an Online Equipment Rental System for a company called shutter share, a comprehensive web application developed to streamline the process of equipment rentals for businesses. The system is designed to facilitate efficient tracking of equipment rentals, enable the management of pricing structures, and organize customer information seamlessly.
 
 
 **Customer Management:** Efficiently add, edit, or delete customer profiles, providing a user-friendly interface for managing customer information seamlessly.
